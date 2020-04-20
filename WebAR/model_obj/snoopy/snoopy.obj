@@ -1,6 +1,6 @@
 # Blender v2.77 (sub 0) OBJ File: 'snoopy_copy.blend'
 # www.blender.org
-mtllib snoopy_copy.mtl
+mtllib snoopy.mtl
 o body_Cylinder.002
 v 0.722831 0.220774 1.495878
 v 0.436554 0.277685 0.214272
